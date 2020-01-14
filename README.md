@@ -10,5 +10,5 @@ File containing the atomic formula from the parts of the metabolites which doesn
 ## Isotopes.dat
 File containing information regarding natural abundances of the isotopes
 
-## derivatives.dat
+## Derivatives.dat
 File containing the atomic formula from the parts of the metabolites which contain atoms from derivatization process
