@@ -12,3 +12,6 @@ File containing information regarding natural abundances of the isotopes
 
 ## Derivatives.dat
 File containing the atomic formula from the parts of the metabolites which contain atoms from derivatization process
+
+## Klactis_manuscrito
+File containing 1000 randon initial distributions for the model
