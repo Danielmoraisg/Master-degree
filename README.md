@@ -19,5 +19,5 @@ File containing 1000 randon initial distributions for the model created using 13
 ## convert_to_graph.ipynb
 File containing steps to convert cobrapy model to a graph and an implementation of dijsktra's algorithm for it
 
-## Functions
+## Functions.ipynb
 File containing new functions to help cobrapy analysis
