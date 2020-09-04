@@ -21,3 +21,6 @@ File containing steps to convert cobrapy model to a graph and an implementation 
 
 ## Functions.ipynb
 File containing new functions to help cobrapy analysis
+
+## Writing_model.py
+Python 3.6 script tp create a fluxml file compatible with 13cfllux2
