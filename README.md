@@ -16,6 +16,9 @@ File containing the atomic formula from the parts of the metabolites which conta
 ## Klactis_manuscrito
 File containing 1000 randon initial distributions for the model created using 13cMFA
 
+## AH_model.xml
+File containing the metabolic model for BAP strain
+
 ## convert_to_graph.ipynb
 File containing steps to convert cobrapy model to a graph and an implementation of dijsktra's algorithm for it
 
